@@ -1,5 +1,5 @@
 
-## The MLExplorer
+## Assignment-IDZ
 
 Assignment-IDZ, in this app users can see fake employee data. And upon clicking on any item, user navigate to detail screen, where user see employee in full detail manner. 
 ## Tech Stack
